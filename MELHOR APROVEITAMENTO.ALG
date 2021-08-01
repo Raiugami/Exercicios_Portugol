@@ -13,7 +13,7 @@ Inicio
    escreval (" ========= MELHOR APROVEITAMENTO ========= ")
 
    escreval ("--------------------------")
-   escreva ("Quantos alunos a turme tem? ")
+   escreva ("Quantos alunos a turma tem? ")
    leia(quant)
    escreval ("--------------------------")
 
